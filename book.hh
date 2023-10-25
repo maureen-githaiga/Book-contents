@@ -8,8 +8,13 @@
 #       query-functions.                                                    #
 # Notes: * This is a part of an exercise program                            #
 #        * Student's aren't allowed to alter public interface!              #
-#        * All changes to private side are allowed.                         #
+#        * All changes to private side are allowed.
 #############################################################################
+* Program author
+ * Name: Maureen Githaiga
+ * Student number: 151227842
+ * UserID: vpmagi
+ * E-Mail: githaigamaureen@tuni.fi
 */
 
 #ifndef BOOK_HH
