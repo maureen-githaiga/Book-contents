@@ -12,9 +12,6 @@
 #############################################################################
 * Program author
  * Name: Maureen Githaiga
- * Student number: 151227842
- * UserID: vpmagi
- * E-Mail: githaigamaureen@tuni.fi
 */
 
 #ifndef BOOK_HH
