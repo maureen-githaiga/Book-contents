@@ -2,6 +2,7 @@
 This project is a book chapters management system that allows users to read information about book chapters from an input file, perform searches, and make small changes concerning the book chapters. The program supports hierarchical structures with open and closed chapters.
 
 **Goal:** To practice to read code written by another programmer and learn modularity. Use pointers and dynamic memory management and consider how to divide program into parts by using functions.
+
 **Task:** Since this was part of my coursework some of the modules were already provided and the main task was implementing the public part of the book class and using the private part forany utility methods i saw fit. Also had to choose a suitable data structure for this.
 
 **Features**
